@@ -1,8 +1,8 @@
 {
-  "name": "eth-marketplace",
-  "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
-  "author": "gregory@dappuniversity.com",
+  "name": "Jbox-dapp",
+  "version": "0.0.1",
+  "description": "A decentralized video streaming platform",
+  "author": "Iloba Israel",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
@@ -17,6 +17,8 @@
     "react": "16.8.4",
     "react-bootstrap": "1.0.0-beta.5",
     "react-dom": "16.8.4",
+    "react-icons": "^3.9.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "2.1.3",
     "truffle": "5.0.5",
     "web3": "1.0.0-beta.55"
